@@ -197,6 +197,8 @@ SECCIÓN 10–3 Dispositivos electromagnéticos
 
 5. VIDEO
 
+https://youtu.be/TI892rusEQ0
+
 6.	CONCLUSIONES
 
 •	Los conceptos leídos en el capítulo 9 y 10 del libro de Floyd fueron muy interesantes ya que trataron temas muy fundamentales para la electrónica, el cómo aprender a calcular.
